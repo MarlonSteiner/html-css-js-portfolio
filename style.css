@@ -125,7 +125,7 @@ a:hover {
     opacity: 0;
 }
 
-.hamburger-icon span:last-child {
+.hamburger-icon.open span:last-child {
     transform: rotate(-45deg) translate(10px, -5px);
 
 } 
