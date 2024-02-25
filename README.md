@@ -10,4 +10,4 @@ Link: `https://www.youtube.com/watch?v=ldwlOzRvYOU`
 
 ## Description
 
-This portfolio project serves as mere training for Html, CSS, and Javascript.
+Simple and modern designed portfolio project that serves as mere training for Html, CSS, and Javascript. 
